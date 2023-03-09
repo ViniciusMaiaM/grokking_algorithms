@@ -9,8 +9,8 @@ Entendendo Algoritmos apresenta uma abordagem agradável para esse tópico essen
 Você pode encontrar mais informações sobre o livro em [Entendendo Algoritmos](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=asc_df_8575225634/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802639&hvpos=&hvnetw=g&hvrand=1064165620704257718&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9047717&hvtargid=pla-811121403561&psc=1)
 
 ## Chapters | Capitulos
-- 1: Introduction to algorithms (Introdução a algoritmos)
-- 2: Selected sort (Ordenação por seleção)
+- [1: Introduction to algorithms (Introdução a algoritmos)](https://github.com/ViniciusMaiaM/grokking_algorithms/tree/main/01_introduction_to_algorithms)
+- [2: Selected sort (Ordenação por seleção)](https://github.com/ViniciusMaiaM/grokking_algorithms/tree/main/02_selection_sort)
 - 3: Recursion (Recursão)
 - 4: Quicksort (Quicksort)
 - 5: Hash tables (Tabelas hash)
