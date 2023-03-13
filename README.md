@@ -11,8 +11,8 @@ Você pode encontrar mais informações sobre o livro em [Entendendo Algoritmos]
 ## Chapters | Capitulos
 - [1: Introduction to algorithms (Introdução a algoritmos)](https://github.com/ViniciusMaiaM/grokking_algorithms/tree/main/01_introduction_to_algorithms)
 - [2: Selected sort (Ordenação por seleção)](https://github.com/ViniciusMaiaM/grokking_algorithms/tree/main/02_selection_sort)
-- 3: Recursion (Recursão)
-- 4: Quicksort (Quicksort)
+- [3: Recursion (Recursão)](https://github.com/ViniciusMaiaM/grokking_algorithms/tree/main/03_recursion)
+- [4: Quicksort (Quicksort)](https://github.com/ViniciusMaiaM/grokking_algorithms/tree/main/04_quicksort)
 - 5: Hash tables (Tabelas hash)
 - 6: Breadth-first search (Pesquisa em largura)
 - 7: Dijkstra algorithms (Algoritmo de Dijkstra)
